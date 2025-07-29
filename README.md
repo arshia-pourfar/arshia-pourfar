@@ -17,6 +17,7 @@ I’ve finished high school and am preparing to study computer-related subjects 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)  
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38bdf8?style=flat-square&logo=tailwind-css)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery)
 
 **Backend & Database:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)  
