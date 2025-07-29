@@ -9,15 +9,15 @@ I’ve finished high school and am preparing to study computer-related subjects 
 ## 💡 What I Work With
 
 **Frontend:**  
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38bdf8?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)   
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)   
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)   
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)   
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)   
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)   
+![Tailwind](https://img.shields.io/badge/-Tailwind-38bdf8?style=flat-square&logo=tailwind-css)   
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)   
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery)   
 
 **Backend & Database:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)  
