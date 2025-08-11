@@ -30,21 +30,24 @@ I’ve finished high school and am preparing to study computer-related subjects 
 
 ## 🧩 Some of My Projects
 
-### 🛍 [Online Shop](https://online-shop-rouge-two.vercel.app/)  
-Built with **HTML, CSS, JavaScript, jQuery**  
-- Static e-commerce website with basic product browsing and shopping cart features  
-- Responsive design for mobile and desktop  
-- User-friendly UI with simple animations and interactions  
-- Currently in development and being improved with modern technologies  
-- Upcoming features: user authentication, dynamic product management, and order processing  
+### 🛍 [Online Shop & Admin Panel](https://online-shop-rouge-two.vercel.app/)  
+Built with **React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, PostgreSQL**  
+
+- Full-stack e-commerce platform featuring separate user and admin dashboards  
+- User authentication and secure login system  
+- Dynamic product and order management with real-time updates  
+- Comprehensive report generation and sales analytics tools  
+- Responsive and user-friendly frontend design  
+- Robust backend API built with Node.js and Express for efficient data handling  
+- Currently deployed and actively maintained  
+- Planned features: payment gateway integration and enhanced user account management  
 
 ### Tech Stack  
-- HTML5, CSS3, JavaScript (ES6+), jQuery  
-
-### Future Plans  
-- Migrating to React or Next.js for better performance and scalability  
-- Adding backend with Node.js and Express for full-stack capabilities  
-- Integrating payment gateway and user accounts
+- Frontend: React, Next.js, TypeScript, Tailwind CSS  
+- Backend: Node.js, Express  
+- Database: PostgreSQL  
+- APIs: RESTful APIs  
+- Version Control: Git & GitHub
 
 ### 🎵 [Music Player App](https://music-player-eight-red.vercel.app/)  
 Built with **React.js, Node.js, Express, PostgreSQL**  
