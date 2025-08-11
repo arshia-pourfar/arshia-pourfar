@@ -30,26 +30,47 @@ I’ve finished high school and am preparing to study computer-related subjects 
 
 ## 🧩 Some of My Projects
 
+### 🛍 [Online Shop](https://online-shop-rouge-two.vercel.app/)  
+Built with **HTML, CSS, JavaScript, jQuery**  
+- Static e-commerce website with basic product browsing and shopping cart features  
+- Responsive design for mobile and desktop  
+- User-friendly UI with simple animations and interactions  
+- Currently in development and being improved with modern technologies  
+- Upcoming features: user authentication, dynamic product management, and order processing  
+
+### Tech Stack  
+- HTML5, CSS3, JavaScript (ES6+), jQuery  
+
+### Future Plans  
+- Migrating to React or Next.js for better performance and scalability  
+- Adding backend with Node.js and Express for full-stack capabilities  
+- Integrating payment gateway and user accounts
+
 ### 🎵 [Music Player App](https://music-player-eight-red.vercel.app/)  
-Built with **React, Node.js, PostgreSQL**  
-- User login system and online music streaming  
-- Favorite tracks feature  
-- Full-stack, responsive, and deployed
+Built with **React.js, Node.js, Express, PostgreSQL**  
+
+- Full-stack music player application with responsive design  
+- User authentication and secure login system  
+- Real-time audio playback with playlist management  
+- Personalized favorites feature to save tracks  
+- Robust backend handling user data and music metadata  
+- Integrated RESTful APIs for smooth client-server communication  
+- Deployed and accessible online 
 
 ### 🍽 [Restaurant Website](https://restaurant-hazel.vercel.app/)  
-Built with **React**  
-- Clean and mobile-friendly landing page
+Built with **React.js, Tailwind CSS**  
 
-### 🛍 [Online Shop](https://arshia-pourfar.github.io/online-shop/)  
-Built with **HTML, CSS, JavaScript, jQuery**  
-- Static e-commerce site currently in development
+- Clean and mobile-friendly landing page  
+- Responsive design for all devices  
+- Interactive UI components for better user experience  
+- Fast loading and optimized performance  
 
 ### 🌐 [Personal Website](https://arshia-pourfar.github.io/myWebsite/)  
 Built with **HTML, CSS, JavaScript, jQuery**  
 - Early portfolio showcasing my work
 
 ### 🎮 Mini Projects & Games  
-- [Memory Game](https://arshia-pourfar.github.io/Memory-Game/) (difficulty levels)  
+- [Memory Game](https://arshia-pourfar.github.io/Memory-Game/)   
 - [Rock, Paper, Scissors](https://arshia-pourfar.github.io/rock_paper_sizer/)  
 - [Simple Calculator](https://arshia-pourfar.github.io/calculator/)  
 - [XO Game (Tic-Tac-Toe)](https://tic-tac-toe-lac-nu-72.vercel.app/)
