@@ -68,15 +68,17 @@ Built with **React.js, Tailwind CSS**
 - Interactive UI components for better user experience  
 - Fast loading and optimized performance  
 
-### 🌐 [Personal Website](https://arshia-pourfar.github.io/myWebsite/)  
-Built with **HTML, CSS, JavaScript, jQuery**  
-- Early portfolio showcasing my work
+### 💻 Mini Websites  
+- [EasyBank](https://arshia-pourfar.github.io/easybank/) — Responsive landing page with modern design (HTML, CSS, JavaScript)  
+- [Product Page](https://arshia-pourfar.github.io/product-page/) — Simple product showcase page  
+- [Personal Website](https://arshia-pourfar.github.io/myWebsite/) — Simple portfolio  
+- [Basic Online Store](https://arshia-pourfar.github.io/basic-online-store/) — Static online store demo  
 
 ### 🎮 Mini Projects & Games  
-- [Memory Game](https://arshia-pourfar.github.io/Memory-Game/)   
-- [Rock, Paper, Scissors](https://arshia-pourfar.github.io/rock_paper_sizer/)  
-- [Simple Calculator](https://arshia-pourfar.github.io/calculator/)  
-- [XO Game (Tic-Tac-Toe)](https://tic-tac-toe-lac-nu-72.vercel.app/)
+- [Memory Game](https://arshia-pourfar.github.io/Memory-Game/) — Interactive memory matching game built with JavaScript  
+- [Rock, Paper, Scissors](https://arshia-pourfar.github.io/rock_paper_sizer/) — Classic hand game with simple UI  
+- [Simple Calculator](https://arshia-pourfar.github.io/calculator/) — Basic calculator app using JavaScript  
+- [XO Game (Tic-Tac-Toe)](https://tic-tac-toe-lac-nu-72.vercel.app/) — Two-player Tic-Tac-Toe game built with React.js  
 
 ---
 
