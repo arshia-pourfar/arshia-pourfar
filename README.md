@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/74640166?v=4" width="150" height="150" alt="Arshia Pourfar">
-</div>
-
 <h1 align="center">👋 Hi there, I'm Arshia Pourfar</h1>
 
 <p align="center">
