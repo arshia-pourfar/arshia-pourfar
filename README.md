@@ -7,7 +7,7 @@
 <p align="center">
   A passionate self-taught web developer with 4+ years of experience building full-stack applications.
   <br>
-  I'm dedicated to creating intuitive and efficient web solutions using modern technologies.
+  I'm dedicated to creating intuitive and efficient web solutions using modern technologies, and I'm currently exploring **AI and Machine Learning** to bring a new dimension to my projects.
 </p>
 
 ---
@@ -78,7 +78,7 @@
 
 ### 🌱 Always Learning and Growing
 
-I'm currently focused on my university studies while continuing to build and improve my projects. I am open to collaborating on new ideas and exploring opportunities.
+I'm currently focused on my university studies while continuing to build and improve my projects. I am open to collaborating on new ideas and exploring opportunities, with a future goal of incorporating **AI and Machine Learning** into my work.
 
 ### 🤝 Let's Connect
 
