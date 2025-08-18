@@ -1,45 +1,61 @@
-# 👋 Hi, I'm Arshia Pourfar
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/74640166?v=4" width="150" height="150" alt="Arshia Pourfar">
+</div>
 
-I'm a self-taught web developer with over 4 years of experience building modern websites and applications. I specialize in turning ideas into dynamic, full-stack projects using **React**, **Next.js**, and **TypeScript**. My passion lies in creating robust and user-friendly web solutions.
+<h1 align="center">👋 Hi there, I'm Arshia Pourfar</h1>
 
-I'm currently preparing for university, where I plan to further my studies in computer science.
-
----
-
-### 💻 My Tech Stack
-
-| Frontend | Backend & Database |
-| :--- | :--- |
-| ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-38bdf8?style=flat-square&logo=tailwind-css) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery) | ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php) ![WordPress](https://img.shields.io/badge/-WordPress-21759b?style=flat-square&logo=wordpress) ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) |
+<p align="center">
+  A passionate self-taught web developer with 4+ years of experience building full-stack applications.
+  <br>
+  I'm dedicated to creating intuitive and efficient web solutions using modern technologies.
+</p>
 
 ---
 
-### ✨ Featured Projects
+### 🛠️ My Toolbox
 
-#### 🛍 [Online Shop & Admin Panel](https://online-shop-rouge-two.vercel.app/)
+<p align="center">
+  <strong>Frontend:</strong>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,jquery" />
+  </a>
+</p>
 
-A full-stack e-commerce platform with a separate admin dashboard.
-* **Key Features**: User authentication, dynamic product management, comprehensive sales analytics, and responsive design.
-* **Tech Stack**: **React, Next.js, TypeScript, Tailwind CSS** (Frontend) | **Node.js, Express, PostgreSQL** (Backend)
-
-#### 🎵 [Music Player App](https://music-player-eight-red.vercel.app/)
-
-A full-stack music player application with a responsive design and secure user authentication.
-* **Key Features**: Real-time audio playback, personalized playlists, and a robust backend for user data.
-* **Tech Stack**: **React.js** (Frontend) | **Node.js, Express, PostgreSQL** (Backend)
-
----
-
-### 📁 Other Projects
-
-- **[Restaurant Website](https://restaurant-hazel.vercel.app/)**: A clean, mobile-friendly landing page built with **React.js** and **Tailwind CSS**.
-- **[Memory Game](https://arshia-pourfar.github.io/Memory-Game/)**: An interactive memory matching game built with JavaScript.
-- **[EasyBank](https://arshia-pourfar.github.io/easybank/)**: A responsive banking landing page using HTML, CSS, and JavaScript.
+<p align="center">
+  <strong>Backend & Databases:</strong>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,wordpress,mysql,postgresql" />
+  </a>
+</p>
 
 ---
 
-### 📫 Let's Connect
+### 🚀 Projects That Define My Skills
 
-- **Email**: arshiapourfar@gmail.com
-- **LinkedIn**: [Arshia Pourfar](https://www.linkedin.com/in/arshia-pourfar)
-- **GitHub**: [@arshia-pourfar](https://github.com/arshia-pourfar)
+#### **1. Online Shop & Admin Panel**
+
+* **Description:** A complete e-commerce platform with separate user and admin dashboards.
+* **Tech Stack:** React, Next.js, TypeScript, Node.js, Express, PostgreSQL.
+* **Key Features:** Secure user authentication, dynamic product and order management, and detailed sales analytics.
+* **Live Demo:** [online-shop-rouge-two.vercel.app](https://online-shop-rouge-two.vercel.app/)
+
+#### **2. Music Player App**
+
+* **Description:** A full-stack music streaming application with a responsive interface.
+* **Tech Stack:** React, Node.js, Express, PostgreSQL.
+* **Key Features:** Real-time audio playback, personalized favorites, and robust user data handling.
+* **Live Demo:** [music-player-eight-red.vercel.app](https://music-player-eight-red.vercel.app/)
+
+---
+
+### 🌱 Always Learning and Growing
+
+I'm currently focused on my university studies while continuing to build and improve my projects. I am open to collaborating on new ideas and exploring opportunities.
+
+### 🤝 Let's Connect
+
+- **Email:** arshiapourfar@gmail.com
+- **LinkedIn:** [Arshia Pourfar](https://www.linkedin.com/in/arshia-pourfar)
+- **GitHub:** [@arshia-pourfar](https://github.com/arshia-pourfar)
