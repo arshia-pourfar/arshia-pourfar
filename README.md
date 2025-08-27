@@ -3,7 +3,7 @@
 <p align="center">
   A passionate self-taught web developer with 4+ years of experience building full-stack applications.
   <br>
-  I'm dedicated to creating intuitive and efficient web solutions using modern technologies, and I'm currently exploring **AI and Machine Learning** to bring a new dimension to my projects.
+  I'm dedicated to creating intuitive and efficient web solutions using modern technologies, and I'm currently exploring AI and Machine Learning to bring a new dimension to my projects.
 </p>
 
 ---
