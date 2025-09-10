@@ -70,6 +70,8 @@
   - **[Basic Online Store](https://arshia-pourfar.github.io/basic-online-store/)**: A static online store demo.
   
   #### 🎮 Mini Projects & Games
+  - **[Chat Bot](https://chat-bot-one-lilac.vercel.app/)**: An AI-powered chat bot capable of conversation and responses, built with Next.js and Gemini.
+  - **[Ai Designer](https://ai-designer-indol.vercel.app/)**: A tool for designing and generating images using AI, with a simple and user-friendly interface.
   - **[Memory Game](https://arshia-pourfar.github.io/Memory-Game/)**: An interactive memory matching game built with **JavaScript**.
   - **[Rock, Paper, Scissors](https://arshia-pourfar.github.io/rock_paper_sizer/)**: A classic hand game with a simple UI.
   - **[Simple Calculator](https://arshia-pourfar.github.io/calculator/)**: A basic calculator app using **JavaScript**.
