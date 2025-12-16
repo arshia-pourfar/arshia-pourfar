@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi there, I'm Arshia Pourfar</h1>
 
 <p align="center">
-  A self-taught <strong>Full-Stack Web Developer</strong> with 4+ years of experience building dynamic and scalable applications.  
+  👋 Hi there! I'm a self-taught <strong>Full-Stack Web Developer</strong> with 4+ years of experience building dynamic and scalable web applications.  
   <br>
-  I love crafting intuitive, efficient, and visually clean web experiences using modern technologies like <strong>React, Next.js, and Node.js</strong>.  
+  I create intuitive, efficient, and visually clean experiences using modern technologies like <strong>React, Next.js, and Node.js</strong>.  
   <br>
-  Currently, I'm exploring <strong>AI and Machine Learning</strong> to bring intelligent and data-driven features into my projects.
+  I’m currently diving into <strong>Artificial Intelligence and Machine Learning</strong> to bring intelligent, data-driven features and automation into my projects.
 </p>
 
 ---
@@ -14,16 +14,17 @@
 
 <p align="center">
   <strong>Frontend:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,jquery" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,jquery" />
 </p>
 
 <p align="center">
   <strong>Backend & Databases:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,wordpress,mysql,postgresql" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,wordpress,mysql,postgresql,python" />
+</p>
+
+<p align="center">
+  <strong>AI / ML:</strong><br>
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ---
@@ -77,8 +78,8 @@
 ---
 
 ### 🌱 Always Learning and Growing
-I’m currently focusing on my university studies while improving my technical skills and projects.  
-Open to collaboration and always exploring new ideas — especially where **AI meets Web Development**.
+I’m actively improving my technical skills and building projects.  
+I am learning Python and Machine Learning fundamentals to soon integrate **AI-powered features** like automation, intelligent recommendations, and data-driven web applications.
 
 ### 🤝 Let's Connect
 - **Website:** [arshia-pourfar](https://arshia-pourfar.vercel.app)
