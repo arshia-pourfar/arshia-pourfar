@@ -5,7 +5,7 @@
   <br>
   I create intuitive, efficient, and visually clean experiences using modern technologies like <strong>React, Next.js, and Node.js</strong>.  
   <br>
-  I’m currently diving into <strong>Artificial Intelligence and Machine Learning</strong> to bring intelligent, data-driven features and automation into my projects.
+  I’m currently diving into <strong>Artificial Intelligence (AI) and Machine Learning</strong> to bring intelligent, data-driven features and automation into my projects.
 </p>
 
 ---
