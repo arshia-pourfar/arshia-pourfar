@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Arshia Pourfar</h1>
 
 <p align="center">
-  👋 Hi there! I'm a self-taught <strong>Full-Stack Web Developer</strong> with 4+ years of experience building dynamic and scalable web applications.  
+  I'm a self-taught <strong>Full-Stack Web Developer</strong> with 4+ years of experience building dynamic and scalable web applications.  
   <br>
   I create intuitive, efficient, and visually clean experiences using modern technologies like <strong>React, Next.js, and Node.js</strong>.  
   <br>
