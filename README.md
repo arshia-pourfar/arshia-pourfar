@@ -82,7 +82,7 @@ I’m actively improving my technical skills and building projects.
 I am learning Python and Machine Learning fundamentals to soon integrate **AI-powered features** like automation, intelligent recommendations, and data-driven web applications.
 
 ### 🤝 Let's Connect
-- **Website:** [arshia-pourfar](https://arshia-pourfar.vercel.app)
+- **Website:** [arshia-pourfar](https://arshia-pourfar-resume.vercel.app)
 - **Email:** [arshiapourfar@gmail.com](mailto:arshiapourfar@gmail.com)
 - **LinkedIn:** [Arshia Pourfar](https://www.linkedin.com/in/arshia-pourfar)
 - **GitHub:** [@arshia-pourfar](https://github.com/arshia-pourfar)
