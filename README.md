@@ -116,41 +116,23 @@ const arshia = {
 <details>
 <summary><b>Click to Expand</b></summary>
 
-### 💻 Mini Websites
+#### 💻 Mini Websites
 
-- **EasyBank** — Responsive banking landing page  
-  https://easybank-arshia.vercel.app
-
-- **Product Page** — Simple product showcase  
-  https://product-page-arshia.vercel.app
-
-- **Personal Website** — Early version of personal portfolio  
-  https://arshia-old-portfolio.vercel.app
-
-- **Basic Online Store** — Static online store demo  
-  https://basic-store-arshia.vercel.app
+- **[EasyBank](https://arshia-pourfar.github.io/easybank/)** — Responsive banking landing page (**HTML, CSS, JS**)  
+- **[Product Page](https://arshia-pourfar.github.io/product-page/)** — Simple product showcase  
+- **[Personal Website](https://arshia-pourfar.github.io/myWebsite/)** — Early version of my personal portfolio  
+- **[Basic Online Store](https://arshia-pourfar.github.io/basic-online-store/)** — Static online store demo  
 
 ---
 
-### 🎮 Mini Projects & Games
+#### 🎮 Mini Projects & Games
 
-- **Chat Bot** — AI chatbot using Next.js & Gemini  
-  https://chatbot-arshia.vercel.app
-
-- **AI Designer** — AI image generation tool  
-  https://ai-designer-arshia.vercel.app
-
-- **Memory Game** — JavaScript memory matching game  
-  https://memory-game-arshia.vercel.app
-
-- **Rock, Paper, Scissors** — Classic hand game  
-  https://rps-arshia.vercel.app
-
-- **Calculator** — Basic calculator app  
-  https://calculator-arshia.vercel.app
-
-- **XO Game (Tic-Tac-Toe)** — Two-player React game  
-  https://xo-game-arshia.vercel.app
+- **[Chat Bot](https://chat-bot-one-lilac.vercel.app/)** — AI-powered chatbot using **Next.js & Gemini**  
+- **[AI Designer](https://ai-designer-indol.vercel.app/)** — AI image generation tool with a minimal UI  
+- **[Memory Game](https://arshia-pourfar.github.io/Memory-Game/)** — Interactive memory matching game (**JavaScript**)  
+- **[Rock, Paper, Scissors](https://arshia-pourfar.github.io/rock_paper_sizer/)** — Classic hand game with simple UI  
+- **[Calculator](https://arshia-pourfar.github.io/calculator/)** — Basic calculator app (**JavaScript**)  
+- **[XO Game (Tic-Tac-Toe)](https://tic-tac-toe-lac-nu-72.vercel.app/)** — Two-player Tic-Tac-Toe game (**React.js**)  
 
 </details>
 
