@@ -67,26 +67,92 @@ const arshia = {
 ## 🚀 Featured Work
 
 ### 🛒 Online Shop Platform
-<img src="./gifs/shop.gif" width="100%" />
+<a href="https://online-shop-arshia-pourfar.vercel.app" target="_blank">
+  <img src="./gifs/shop.gif" width="100%" />
+</a>
 
 **Stack:** Next.js • TypeScript • Node.js • PostgreSQL  
 **Highlights:** Secure Auth • Admin Dashboard • Analytics • Scalable Architecture  
+**Live Demo:** https://online-shop-arshia-pourfar.vercel.app  
 
 ---
 
 ### 🎵 Music Streaming App
-<img src="./gifs/music.gif" width="100%" />
+<a href="https://music-player-arshia-pourfar.vercel.app" target="_blank">
+  <img src="./gifs/music.gif" width="100%" />
+</a>
 
 **Stack:** React • Node.js • PostgreSQL  
 **Highlights:** Real-Time Audio • Favorites • Persistent Data • Responsive UI  
+**Live Demo:** https://music-player-eight-red.vercel.app  
 
 ---
 
 ### 🍽 Restaurant Landing Page
-<img src="./gifs/restaurant.gif" width="100%" />
+<a href="https://restaurant-arshia-pourfar.vercel.app" target="_blank">
+  <img src="./gifs/restaurant.gif" width="100%" />
+</a>
 
 **Stack:** React • Tailwind CSS  
 **Highlights:** Smooth Animations • Mobile Optimization • Fast Loading  
+**Live Demo:** https://restaurant-hazel.vercel.app  
+
+---
+
+### 🏢 Corporate Template
+<a href="https://corporate-template-arshia-pourfar.vercel.app" target="_blank">
+  <img src="./gifs/corporate.gif" width="100%" />
+</a>
+
+**Stack:** Next.js • Tailwind CSS  
+**Highlights:** Reusable Components • Clean Layout • Business Ready UI  
+**Live Demo:** https://corporate-template-iota.vercel.app  
+
+
+---
+
+## 📂 More Projects & Experiments
+
+<details>
+<summary><b>Click to Expand</b></summary>
+
+### 💻 Mini Websites
+
+- **EasyBank** — Responsive banking landing page  
+  https://easybank-arshia.vercel.app
+
+- **Product Page** — Simple product showcase  
+  https://product-page-arshia.vercel.app
+
+- **Personal Website** — Early version of personal portfolio  
+  https://arshia-old-portfolio.vercel.app
+
+- **Basic Online Store** — Static online store demo  
+  https://basic-store-arshia.vercel.app
+
+---
+
+### 🎮 Mini Projects & Games
+
+- **Chat Bot** — AI chatbot using Next.js & Gemini  
+  https://chatbot-arshia.vercel.app
+
+- **AI Designer** — AI image generation tool  
+  https://ai-designer-arshia.vercel.app
+
+- **Memory Game** — JavaScript memory matching game  
+  https://memory-game-arshia.vercel.app
+
+- **Rock, Paper, Scissors** — Classic hand game  
+  https://rps-arshia.vercel.app
+
+- **Calculator** — Basic calculator app  
+  https://calculator-arshia.vercel.app
+
+- **XO Game (Tic-Tac-Toe)** — Two-player React game  
+  https://xo-game-arshia.vercel.app
+
+</details>
 
 ---
 
