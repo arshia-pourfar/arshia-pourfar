@@ -16,6 +16,19 @@
 
 ---
 
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://arshia-pourfar.vercel.app">
+    <img src="https://img.shields.io/badge/Main%20Website-111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://arshia-pourfar-resume.vercel.app">
+    <img src="https://img.shields.io/badge/Resume%20Version-333?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🧠 About Me
 
 ```js
@@ -103,9 +116,6 @@ const arshia = {
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://arshia-pourfar-resume.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
   <a href="mailto:arshiapourfar@gmail.com">
     <img src="https://img.shields.io/badge/Email-222?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
