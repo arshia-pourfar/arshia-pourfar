@@ -5,13 +5,15 @@
 
 <!-- =============== TYPING ANIMATION =============== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=900&color=22F7FF&center=true&vCenter=true&width=650&lines=Designing+Smart+Interfaces;Building+Automation+Systems;Learning+AI+Deeply;Turning+Ideas+Into+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=900&color=22F7FF&center=true&vCenter=true&width=700&lines=I+Build+Automation+Systems+That+Scale;I+Integrate+AI+Into+Real+Products;Full-Stack+Dev+%7C+Python+%7C+Next.js;Available+for+Freelance+Projects+%F0%9F%9A%80" />
 </p>
+
 
 <!-- =============== PROFILE BADGES =============== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arshia-pourfar&label=Profile+Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/arshia-pourfar?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/badge/Available%20For-Freelance-22F7FF?style=flat" />
 </p>
 
 ---
@@ -33,13 +35,15 @@
 
 ```js
 const arshia = {
-  role: "Full-Stack Web Developer",
+  role: "Full-Stack Developer & Automation Engineer",
   experience: "4+ Years",
-  focus: ["AI Systems", "Automation", "Scalable Web Apps"],
-  currentMission: "Blending AI with Real-World Products",
+  focus: ["AI Systems", "Business Automation", "Scalable Web Apps"],
+  currentMission: "Building tools that eliminate repetitive work using AI",
+  forHire: true,
   funFact: "I debug faster at 2AM than 2PM"
 };
 ```
+I turn manual, time-consuming workflows into automated systems that save businesses hours every week.
 
 ---
 
@@ -50,21 +54,42 @@ const arshia = {
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,express,php,wordpress,mysql,bootstrap,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,express,php,wordpress,mysql,bootstrap,jquery,fastapi" />
 </p>
 
 ---
 
-## 🔥 Live Activity
+## 🚀 Featured Work — AI & Automation First
 
-- 🧩 Building **AI Email Automation Platform**
-- 🤖 Developing a **Personal Memory AI System**
-- 📊 Researching **Trading Bots & Market Analysis**
-- 🎨 Exploring **Advanced UI Motion & Micro-Interactions**
+### 🧠 AI Sales Predictor — Smart Analytics for Online Stores
+
+<a href="https://github.com/arshia-pourfar/ai-sales-predictor" target="_blank">
+  <img src="./gifs/sales-predictor.gif" width="100%" />
+</a>
+
+**An AI-powered sales prediction and customer behavior analytics system that integrates with any online store via a simple npm package.**
+
+**Stack:** Next.js • TypeScript • FastAPI • Python • PostgreSQL • Prisma • Tailwind CSS  
+**Highlights:**
+- 🖱️ **Behavioral Mouse Tracking** — Captures user interactions, compresses 1000+ events into 2KB summaries
+- 📊 **Sales Forecasting** — Prophet + XGBoost models predict future revenue with pattern detection
+- 🎯 **Smart Recommendations** — Collaborative filtering suggests products based on user behavior
+- 🔑 **API Key Auth** — Secure multi-tenant system with rate limiting & role-based access
+- 📦 **NPM SDK** — One-line install (`npm install ai-sales-predictor-sdk`) for any store
+- 📈 **Admin Dashboard** — Real-time analytics, heatmaps, and conversion tracking
+
+**Live Demo:** [docs.ai-sales-predictor.vercel.app](https://docs.ai-sales-predictor.vercel.app)        
+**Source:** [github.com/arshia-pourfar/ai-sales-predictor](https://github.com/arshia-pourfar/ai-sales-predictor)
 
 ---
 
-## 🚀 Featured Work
+### 🤖 AI Email Automation Platform
+<a href="#" target="_blank"> <img src="./gifs/email-automation.gif" width="100%" /> </a>
+
+**Stack:** Next.js • Typescript • Prisma • PostgreSQL • Tailwind CSS          
+**Highlights:** Auto-categorizes emails • Generates draft replies using LLMs • Saves 5+ hours/week
+
+---
 
 ### 🛒 Online Shop Platform
 <a href="https://online-shop-arshia-pourfar.vercel.app" target="_blank">
@@ -138,6 +163,15 @@ const arshia = {
 
 ---
 
+## 🔥 Currently Building
+
+- 🧩 Building **AI Email Automation Platform**
+- 🤖 Developing a **Personal Memory AI System**
+- 📊 Researching **Trading Bots & Market Analysis**
+- 🎨 Exploring **Advanced UI Motion & Micro-Interactions**
+
+---
+
 ## 📈 GitHub Analytics
 
 <p align="center">
@@ -178,9 +212,6 @@ const arshia = {
 ---
 
 <!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/> </p><!-- hidden easter egg --><!-- If you are reading this line, you officially scrolled too much. Respect. -->
 <!-- hidden easter egg -->
 <!-- If you are reading this line, you officially scrolled too much. Respect. -->
