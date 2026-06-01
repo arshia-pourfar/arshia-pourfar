@@ -67,27 +67,31 @@ I turn manual, time-consuming workflows into automated systems that save busines
   <img src="./gifs/sales-predictor.gif" width="100%" />
 </a>
 
-**An AI-powered sales prediction and customer behavior analytics system that integrates with any online store via a simple npm package.**
+**An AI-powered sales prediction and behavior analytics system. Tracks user interactions, forecasts sales, and recommends products — all accessible via a plug-and-play npm package.**
 
 **Stack:** Next.js • TypeScript • FastAPI • Python • PostgreSQL • Prisma • Tailwind CSS  
 **Highlights:**
-- 🖱️ **Behavioral Mouse Tracking** — Captures user interactions, compresses 1000+ events into 2KB summaries
-- 📊 **Sales Forecasting** — Prophet + XGBoost models predict future revenue with pattern detection
-- 🎯 **Smart Recommendations** — Collaborative filtering suggests products based on user behavior
-- 🔑 **API Key Auth** — Secure multi-tenant system with rate limiting & role-based access
-- 📦 **NPM SDK** — One-line install (`npm install ai-sales-predictor-sdk`) for any store
-- 📈 **Admin Dashboard** — Real-time analytics, heatmaps, and conversion tracking
-
-**Live Demo:** [docs.ai-sales-predictor.vercel.app](https://docs.ai-sales-predictor.vercel.app)        
-**Source:** [github.com/arshia-pourfar/ai-sales-predictor](https://github.com/arshia-pourfar/ai-sales-predictor)
+- 🖱️ **Behavioral Tracking SDK** — Captures mouse events, compresses to lightweight summaries before sending
+- 📊 **Sales Forecasting Engine** — ML models (Prophet + XGBoost) trained on real e-commerce data
+- 🎯 **Product Recommender** — Collaborative filtering based on behavioral clusters
+- 🔑 **API Key + Rate Limiting** — Multi-tenant system ready for SaaS deployment
+- 📦 **NPM Install** — One command to integrate: `npm install ai-sales-predictor-sdk`
+- 📈 **Admin Dashboard** — Visualize predictions, user segments, and conversion funnels
 
 ---
 
-### 🤖 AI Email Automation Platform
-<a href="#" target="_blank"> <img src="./gifs/email-automation.gif" width="100%" /> </a>
+### 🤖 AI Lead Responder — Automated Email Reply System
 
-**Stack:** Next.js • Typescript • Prisma • PostgreSQL • Tailwind CSS          
-**Highlights:** Auto-categorizes emails • Generates draft replies using LLMs • Saves 5+ hours/week
+<a href="https://reply-ai-arshia-pourfar.vercel.app" target="_blank">
+  <img src="./gifs/lead-responder.gif" width="100%" />
+</a>
+
+**An intelligent email automation tool that analyzes incoming leads and generates contextual replies using LLMs, saving sales teams hours every day.**
+
+**Stack:** Next.js • TypeScript • Python • Gemini API • Gmail API • PostgreSQL  
+**Highlights:** Auto-categorizes leads by intent • Drafts human-like replies • Learns from past responses • Dashboard with reply analytics  
+**Live Demo:** [reply-ai-arshia-pourfar.vercel.app](https://reply-ai-arshia-pourfar.vercel.app)  
+**Source:** [github.com/arshia-pourfar/ai-lead-responder](https://github.com/arshia-pourfar/ai-lead-responder)
 
 ---
 
@@ -165,10 +169,10 @@ I turn manual, time-consuming workflows into automated systems that save busines
 
 ## 🔥 Currently Building
 
-- 🧩 Building **AI Email Automation Platform**
-- 🤖 Developing a **Personal Memory AI System**
-- 📊 Researching **Trading Bots & Market Analysis**
-- 🎨 Exploring **Advanced UI Motion & Micro-Interactions**
+- 🧠 **AI Sales Predictor** — npm package for e-commerce analytics + sales forecasting
+- 📧 **AI Lead Responder** — LLM-powered email auto-reply for sales teams
+- 🎨 **Micro-Interaction UI Library** — Reusable animation components for modern web apps
+- 📊 **Market Analysis Bot** — Automated data collection and insight generation
 
 ---
 
@@ -212,6 +216,6 @@ I turn manual, time-consuming workflows into automated systems that save busines
 ---
 
 <!-- ================= FOOTER ================= -->
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/> </p><!-- hidden easter egg --><!-- If you are reading this line, you officially scrolled too much. Respect. -->
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/> </p><!-- If you are reading this line, you officially scrolled too much. Respect. -->
 <!-- hidden easter egg -->
 <!-- If you are reading this line, you officially scrolled too much. Respect. -->
