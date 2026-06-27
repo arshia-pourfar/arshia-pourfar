@@ -1,186 +1,132 @@
-<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Arshia%20Pourfar&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI%20Builder&descSize=18&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arshia%20Pourfar&fontSize=52&fontColor=ffffff&animation=twinkling&desc=AI%20Builder%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=72" />
 </p>
 
-<!-- =============== TYPING ANIMATION =============== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=900&color=22F7FF&center=true&vCenter=true&width=700&lines=I+Build+Automation+Systems+That+Scale;I+Integrate+AI+Into+Real+Products;Full-Stack+Dev+%7C+Python+%7C+Next.js;Available+for+Freelance+Projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=900&color=22F7FF&center=true&vCenter=true&width=700&lines=Building+AI+Tools+for+Real+Businesses;Full-Stack+Dev+%7C+Next.js+%7C+Python;Turning+Ideas+Into+Products+Since+2022;Available+for+Collaboration+%F0%9F%9A%80" />
 </p>
 
-
-<!-- =============== PROFILE BADGES =============== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arshia-pourfar&label=Profile+Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/arshia-pourfar?label=Followers&style=flat&color=blue" />
-  <img src="https://img.shields.io/badge/Available%20For-Freelance-22F7FF?style=flat" />
-</p>
-
----
-
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://arshia-pourfar.vercel.app">
-    <img src="https://img.shields.io/badge/Main%20Website-111?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://arshia-pourfar-resume.vercel.app">
-    <img src="https://img.shields.io/badge/Resume%20Version-333?style=for-the-badge&logo=readme&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20SaaS-22F7FF?style=flat" />
+  <img src="https://img.shields.io/badge/Status-Building-brightgreen?style=flat" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-```js
+```ts
 const arshia = {
-  role: "Full-Stack Developer & Automation Engineer",
-  experience: "4+ Years",
-  focus: ["AI Systems", "Business Automation", "Scalable Web Apps"],
-  currentMission: "Building tools that eliminate repetitive work using AI",
-  forHire: true,
-  funFact: "I debug faster at 2AM than 2PM"
+  role:        "Full-Stack Developer & AI Builder",
+  experience:  "4+ years (7 years exploring)",
+  location:    "Iran 🇮🇷",
+  currentBuild: "AI Sales Engine for eCommerce",
+  stack:       ["Next.js", "TypeScript", "Python", "PostgreSQL", "FastAPI"],
+  goal:        "Build a SaaS startup that makes businesses smarter with AI",
+  funFact:     "I debug faster at 2AM than 2PM 🌙",
 };
 ```
-I turn manual, time-consuming workflows into automated systems that save businesses hours every week.
+
+Started with C++ → Android → JavaScript → Full-Stack → AI Systems.
+
+Every step was a lesson. No shortcuts — just consistent building.
 
 ---
 
-## ⚙️ Tech Arsenal
+## 🚀 What I'm Building
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,postgres,python,git" />
-</p>
+### 🤖 Assist Chatbot — AI Sales Engine for eCommerce
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,express,php,wordpress,mysql,bootstrap,jquery,fastapi" />
-</p>
+> An AI-powered sales assistant that installs on any store with one line of code.
 
----
+**Core features:**
+- 💬 Smart chat widget (embed with 1 script tag)
+- 📂 Knowledge Base — upload PDF catalogs, the bot answers from them
+- 🛍️ Product cards inside chat
+- 📊 Conversation analytics dashboard
+- 🔑 Bring your own API key (Gemini / OpenAI)
 
-## 🚀 Featured Work — AI & Automation First
+**Status:** Active development — chat engine + RAG in progress
 
-### 🧠 AI Sales Predictor — Smart Analytics for Online Stores
-
-<a href="https://github.com/arshia-pourfar/ai-sales-predictor" target="_blank">
-  <img src="./gifs/sales-predictor.gif" width="100%" />
-</a>
-
-**An AI-powered sales prediction and behavior analytics system. Tracks user interactions, forecasts sales, and recommends products — all accessible via a plug-and-play npm package.**
-
-**Stack:** Next.js • TypeScript • FastAPI • Python • PostgreSQL • Prisma • Tailwind CSS  
-**Highlights:**
-- 🖱️ **Behavioral Tracking SDK** — Captures mouse events, compresses to lightweight summaries before sending
-- 📊 **Sales Forecasting Engine** — ML models (Prophet + XGBoost) trained on real e-commerce data
-- 🎯 **Product Recommender** — Collaborative filtering based on behavioral clusters
-- 🔑 **API Key + Rate Limiting** — Multi-tenant system ready for SaaS deployment
-- 📦 **NPM Install** — One command to integrate: `npm install ai-sales-predictor-sdk`
-- 📈 **Admin Dashboard** — Visualize predictions, user segments, and conversion funnels
+**Live Panel:** [assist-chatbot-arshia-pourfar.vercel.app](https://assist-chatbot-arshia-pourfar.vercel.app)
 
 ---
 
-### 🤖 AI Lead Responder — Automated Email Reply System
+## 🛠️ Featured Projects
 
-<a href="https://reply-ai-arshia-pourfar.vercel.app" target="_blank">
-  <img src="./gifs/lead-responder.gif" width="100%" />
-</a>
+### 📧 AI Lead Responder
+Automated email reply system using LLMs. Analyzes incoming leads, categorizes by intent, drafts human-like responses.
 
-**An intelligent email automation tool that analyzes incoming leads and generates contextual replies using LLMs, saving sales teams hours every day.**
+**Stack:** Next.js · TypeScript · Python · Gemini API · Gmail API · PostgreSQL
 
-**Stack:** Next.js • TypeScript • Python • Gemini API • Gmail API • PostgreSQL  
-**Highlights:** Auto-categorizes leads by intent • Drafts human-like replies • Learns from past responses • Dashboard with reply analytics  
-**Live Demo:** [reply-ai-arshia-pourfar.vercel.app](https://reply-ai-arshia-pourfar.vercel.app)  
-**Source:** [github.com/arshia-pourfar/ai-lead-responder](https://github.com/arshia-pourfar/ai-lead-responder)
+**Live:** [reply-ai-arshia-pourfar.vercel.app](https://reply-ai-arshia-pourfar.vercel.app)
+
+---
+
+### 📈 AI Sales Predictor
+Behavioral tracking SDK + ML-powered sales forecasting for eCommerce.
+
+- Mouse/click event tracking compressed into lightweight summaries
+- Prophet + XGBoost models for sales forecasting
+- Collaborative filtering for product recommendations
+- NPM package: `npm install ai-sales-predictor-sdk`
+
+**Stack:** Next.js · FastAPI · Python · PostgreSQL · Prisma
 
 ---
 
 ### 🛒 Online Shop Platform
-<a href="https://online-shop-arshia-pourfar.vercel.app" target="_blank">
-  <img src="./gifs/shop.gif" width="100%" />
-</a>
+Full-stack eCommerce platform with secure auth, admin dashboard, and analytics.
 
-**Stack:** Next.js • TypeScript • Node.js • PostgreSQL  
-**Highlights:** Secure Auth • Admin Dashboard • Analytics • Scalable Architecture  
-**Live Demo:** https://online-shop-arshia-pourfar.vercel.app  
+**Stack:** Next.js · TypeScript · Node.js · PostgreSQL
+
+**Live:** [online-shop-arshia-pourfar.vercel.app](https://online-shop-arshia-pourfar.vercel.app)
 
 ---
 
 ### 🎵 Music Streaming App
-<a href="https://music-player-arshia-pourfar.vercel.app" target="_blank">
-  <img src="./gifs/music.gif" width="100%" />
-</a>
+Real-time audio streaming with favorites, persistent data, and responsive UI.
 
-**Stack:** React • Node.js • PostgreSQL  
-**Highlights:** Real-Time Audio • Favorites • Persistent Data • Responsive UI  
-**Live Demo:** https://music-player-eight-red.vercel.app  
+**Stack:** React · Node.js · PostgreSQL
+
+**Live:** [music-player-eight-red.vercel.app](https://music-player-eight-red.vercel.app)
 
 ---
 
-### 🍽 Restaurant Landing Page
-<a href="https://restaurant-arshia-pourfar.vercel.app" target="_blank">
-  <img src="./gifs/restaurant.gif" width="100%" />
-</a>
-
-**Stack:** React • Tailwind CSS  
-**Highlights:** Smooth Animations • Mobile Optimization • Fast Loading  
-**Live Demo:** https://restaurant-hazel.vercel.app  
-
----
-
-### 🏢 Corporate Template
-<a href="https://corporate-template-arshia-pourfar.vercel.app" target="_blank">
-  <img src="./gifs/corporate.gif" width="100%" />
-</a>
-
-**Stack:** Next.js • Tailwind CSS  
-**Highlights:** Reusable Components • Clean Layout • Business Ready UI  
-**Live Demo:** https://corporate-template-iota.vercel.app  
-
-
----
-
-## 📂 More Projects & Experiments
-
-<details>
-<summary><b>Click to Expand</b></summary>
-
-#### 💻 Mini Websites
-
-- **[EasyBank](https://arshia-pourfar.github.io/easybank/)** — Responsive banking landing page (**HTML, CSS, JS**)  
-- **[Product Page](https://arshia-pourfar.github.io/product-page/)** — Simple product showcase  
-- **[Personal Website](https://arshia-pourfar.github.io/myWebsite/)** — Early version of my personal portfolio  
-- **[Basic Online Store](https://arshia-pourfar.github.io/basic-online-store/)** — Static online store demo  
-
----
-
-#### 🎮 Mini Projects & Games
-
-- **[Chat Bot](https://chat-bot-one-lilac.vercel.app/)** — AI-powered chatbot using **Next.js & Gemini**  
-- **[AI Designer](https://ai-designer-indol.vercel.app/)** — AI image generation tool with a minimal UI  
-- **[Memory Game](https://arshia-pourfar.github.io/Memory-Game/)** — Interactive memory matching game (**JavaScript**)  
-- **[Rock, Paper, Scissors](https://arshia-pourfar.github.io/rock_paper_sizer/)** — Classic hand game with simple UI  
-- **[Calculator](https://arshia-pourfar.github.io/calculator/)** — Basic calculator app (**JavaScript**)  
-- **[XO Game (Tic-Tac-Toe)](https://tic-tac-toe-lac-nu-72.vercel.app/)** — Two-player Tic-Tac-Toe game (**React.js**)  
-
-</details>
-
----
-
-## 🔥 Currently Building
-
-- 🧠 **AI Sales Predictor** — npm package for e-commerce analytics + sales forecasting
-- 📧 **AI Lead Responder** — LLM-powered email auto-reply for sales teams
-- 🎨 **Micro-Interaction UI Library** — Reusable animation components for modern web apps
-- 📊 **Market Analysis Bot** — Automated data collection and insight generation
-
----
-
-## 📈 GitHub Analytics
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshia-pourfar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshia-pourfar&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,postgres,python,git" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express,fastapi,prisma,html,css,js,mysql,wordpress" />
+</p>
+
+---
+
+## 🗺️ Journey
+
+| Year | Chapter |
+|------|---------|
+| 2019 | First code — C++ |
+| 2020 | Android development |
+| 2021 | Discovered JavaScript → fell in love with web |
+| 2022 | HTML, CSS, JS — building and breaking things |
+| 2023 | React, component design, first real projects |
+| 2024 | Full-stack — Node.js, Express, REST APIs, databases |
+| 2025 | Shipping real products — SaaS, AI tools, automation |
+| 2026 | **AI + Full-Stack** — building a startup |
+| 2027+ | Scale, team, impact 🚀 |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arshia-pourfar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshia-pourfar&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
@@ -191,19 +137,22 @@ I turn manual, time-consuming workflows into automated systems that save busines
 
 ## 🎯 2026 Goals
 
-- Launch an **AI-Driven SaaS Product**
-- Publish an **Open-Source Automation Tool**
-- Build a **Micro-Animation UI Library**
-- Contribute to **10+ Meaningful Repositories**
-- Expand **AI + Full-Stack Integration Projects**
+- [ ] Launch **Assist Chatbot** — first paying customers
+- [ ] Build **AI email responder** into the platform
+- [ ] Reach MRR from SaaS product
+- [ ] Open-source the behavioral tracking SDK
+- [ ] Start trading with structured risk management
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="mailto:arshiapourfar@gmail.com">
     <img src="https://img.shields.io/badge/Email-222?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://arshia-pourfar.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/arshia-pourfar">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -215,7 +164,8 @@ I turn manual, time-consuming workflows into automated systems that save busines
 
 ---
 
-<!-- ================= FOOTER ================= -->
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/> </p><!-- If you are reading this line, you officially scrolled too much. Respect. -->
-<!-- hidden easter egg -->
-<!-- If you are reading this line, you officially scrolled too much. Respect. -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
+</p>
+
+<!-- If you read this far — respect. Let's build something. -->
