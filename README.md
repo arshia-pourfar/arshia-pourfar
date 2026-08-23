@@ -95,6 +95,15 @@ Real-time audio streaming with favorites, persistent data, and responsive UI.
 
 ---
 
+### 🏗️ Sakhtara — Construction & Renovation Studio
+Luxury Persian (RTL) website for a structural renovation company. Features a canvas hero animated by scroll position, a live renovation cost calculator, and a dynamic project showcase.
+
+**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · GSAP · Lenis · AOS
+
+**Live:** [sakhtara.vercel.app](https://reconstruction-building-arshia-pourfar.vercel.app)
+
+---
+
 ## ⚙️ Tech Stack
 
 <p align="center">
