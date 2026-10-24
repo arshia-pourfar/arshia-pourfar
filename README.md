@@ -197,19 +197,21 @@ An exploration of behavioral analytics and predictive modeling for e-commerce ap
 
 ### 6. Yekechin — E-commerce Website
 
-**Full-Stack Development · E-commerce · Business Applications**
+**Full-Stack Development · End-to-End Engineering · Business Applications**
 
-A full-stack e-commerce website developed for a real business, combining a customer-facing storefront with backend functionality and database integration.
+An end-to-end e-commerce website independently designed and developed for a real business, covering the full development process from application architecture and database design to backend implementation and customer-facing functionality.
 
-**Engineering areas**
-- Responsive storefront development.
-- Backend APIs and database-backed functionality.
-- Product and business data management.
-- Full-stack application architecture.
+**Key Contributions**
 
-**Tech stack:** Next.js · TypeScript · Prisma · PostgreSQL
+- Independently developed the project from initial implementation to deployment.
+- Built a responsive customer-facing storefront.
+- Implemented backend APIs and database integration.
+- Designed database models and application data workflows.
+- Managed full-stack architecture and production deployment.
 
-**Live website:** [yekechin.com](https://yekechin.com)
+**Tech Stack:** Next.js · TypeScript · Prisma · PostgreSQL
+
+**Live Website:** [yekechin.com](https://yekechin.com/)
 
 ---
 
